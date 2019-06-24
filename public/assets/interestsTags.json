@@ -1,0 +1,9 @@
+[ { "value": 1 , "text": "Sports"   , "continent": "Sports"    },
+  { "value": 2 , "text": "Social"      , "continent": "Social"    },
+  { "value": 3 , "text": "Gaming"       , "continent": "Gaming"    },
+  { "value": 4 , "text": "Art"  , "continent": "Art"   },
+  { "value": 5 , "text": "Adventure" , "continent": "Adventure"   },
+  { "value": 6 , "text": "Mall", "continent": "Mall"   },
+  { "value": 7 , "text": "Shopping"      , "continent": "Shopping" },
+  { "value": 8 , "text": "Playing"  , "continent": "Playing" }
+]
